@@ -4,9 +4,7 @@
 # In[1]:
 
 # Loan Classifier
-import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler, LabelEncoder, OneHotEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix
@@ -63,7 +61,6 @@ X_test = sc_X.transform(X_test)
 # In[49]:
 
 # importing Deep Learning Libraries
-import keras
 from keras.models import Sequential
 from keras.layers import Dense
 
