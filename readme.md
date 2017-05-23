@@ -1,9 +1,9 @@
 # LoanClassifier
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-science.svg)](http://forthebadge.com)
-[![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](http://forthebadge.com)
-[![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-science.svg)](https://github.com/Dakssh/LoanClassifier/)
+[![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](https://dak.sh)
+[![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Dakssh/LoanClassifier/)
 
 Licensed Under MIT | (c) to Daksh Miglani (https://dak.sh | @Dakssh)
 
