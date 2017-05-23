@@ -4,7 +4,6 @@
 [![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/09a5b96b55004de0a1c629701a76b16c)](https://www.codacy.com/app/Daksh/LoanClassifier?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Dakssh/LoanClassifier&amp;utm_campaign=Badge_Grade)
 
 Licensed Under MIT | (c) to Daksh Miglani (https://dak.sh | @Dakssh)
 
